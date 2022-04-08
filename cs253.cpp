@@ -95,4 +95,7 @@ cout << "\t Enter Your Name : ";
     cout << "\t Enter Your ID(4 digit Number): ";
     int id;
     cin >> id;
+    cout << "\t Enter Password to be set: ";
+    string password;
+    cin >> password;
 }
